@@ -1,1 +1,5 @@
 # Placeholder content for requirements.txt
+pandas
+scikit-learn
+matplotlib
+seaborn
