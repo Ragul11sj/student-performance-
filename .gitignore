@@ -1,1 +1,10 @@
 # Placeholder content for .gitignore
+
+---
+
+### ✅ `.gitignore`
+```gitignore
+__pycache__/
+*.pyc
+*.png
+.env
